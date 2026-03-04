@@ -1,0 +1,21 @@
+1. How long did you spend on this assignment?
+We spent 10 hours on this assignment. 
+
+2. How did you use AI on this assignment?
+We used AI for guidance on implementing RSA key generation in Gen.py and for 
+setting up TCP socket communication between Alice, Mallory, and Bob. We also 
+used AI to help structure the code for loading public/private keys. We used AI 
+to get information on performing RSA-based key exchange, implementing symmetric 
+encryption, and implementing MAC operations.
+
+3. Did you discuss problems with any other students? If so, who?
+We discussed just between partners.
+
+4. Any comments or feedback? Things you found interesting? Things you found 
+challenging? Things you found boring?
+This assignment was so crucial for my understanding of how to combine both integrity 
+and confidentiality in a secure system. Also, the writeup made it super easy to map 
+out a good order of operations for how I was going to complete the assignment.
+I liked that we got to play out the different scenarios we had seen in the slides.
+It makes it much easier to understand when the parts are moving and you can see the 
+view of each actor in their terminal.
